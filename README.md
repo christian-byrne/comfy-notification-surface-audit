@@ -2,6 +2,8 @@
 
 Standalone static artifact. There is no build step.
 
+Live site: https://christian-byrne.github.io/comfy-notification-surface-audit/
+
 ## Share immediately with Netlify
 
 From this directory:
